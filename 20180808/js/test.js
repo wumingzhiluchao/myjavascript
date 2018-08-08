@@ -290,7 +290,7 @@
 
 
 function than(a, b) {
-  return b < a
+  return a < b
 }
 
 var sum = [0,3,1,4,6,8,3,10,15]
