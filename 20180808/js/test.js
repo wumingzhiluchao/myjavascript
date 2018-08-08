@@ -292,7 +292,7 @@
 function than(a, b) {
   return a < b
 }
-
+//this
 var sum = [0,3,1,4,6,8,3,10,15]
 sum.sort(than)
 console.log(sum)
